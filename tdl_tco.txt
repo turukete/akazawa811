@@ -1,0 +1,1 @@
+mission.The_Dark_Lord = destroy(The_Chosen_One);
